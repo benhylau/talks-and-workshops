@@ -1,4 +1,4 @@
-# Moss + Oslo Mesh Week
+# Oslo Mesh Week
 
 How can we build a decentralized internet as a community of internet users? We begin with a 30 minute session about decentralized systems from community mesh networks to peer-to-peer applications. We will discuss power structures and social dynamics that emerge by having connectivity and web services as commons, through examples involving existing mesh locals and running protocols like the Interplanetary Filesystem (IPFS) and Secure Scuttlebutt (SSB). With off-the-shelf hardware such as the LibreRouter and Raspberry Pi running free open-source software, and with strategies for community governance that focus on literacy and inclusivity, we will present practical approaches to build and maintain such a network. The speaking session will be an overview, followed by one day of structured workshop and days of unstructured co-building.
 
