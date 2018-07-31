@@ -16,7 +16,7 @@
 
 Benedict is an engineer working on mobile software and mesh networks. He is a contributor and organizer at Toronto Mesh, currently focused on meshing with single-board computers and building deployment tools and literacy around peer-to-peer applications. He has designed and facilitated tech workshops to diverse audiences at conferences, makerspaces, hackerspaces, libraries, and is author to some marginally popular open-source projects.  
 
-![me_256](/uploads/73d0fc3596e1d76a70b005d19ac4a136/me_256.jpg)  
+[REDACTED]  
 
 
 
