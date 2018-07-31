@@ -159,7 +159,7 @@ Debian packages + Docker containers (e.g. `Matrix`, `Aether`)
 
 <media-tag src="https://files.cryptpad.fr/blob/2e/2e3e0f2c8ad947d25e685e20df1e54de35e33b6ddd9dd864" data-crypto-key="cryptpad:JFv+Ndr1aBj36fsxFnr/kXLGTj0mVzmfQNkJ0J7QvHg="></media-tag>
 
-* 15-second video chunks are already pinned
+* All the 15-second video chunks are already pinned
 * Publish hourly/daily m3u8 manifests to create archive
 
 ---
