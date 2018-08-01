@@ -3,7 +3,7 @@
 <br>
 
 ##### Peer-to-peer applications on a mesh network
-###### Benedict Lau @ Decentralized Web Summit 2018
+###### Benedict Lau, [tomesh.net](https://tomesh.net) @ Decentralized Web Summit 2018
 
 ---
 
