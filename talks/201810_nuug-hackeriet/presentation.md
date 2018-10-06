@@ -429,7 +429,11 @@ class: long
 
 ## Routing in Yggdrasil
 
-- Share routing information via DHT to establish .alt[<i class="fas fa-sitemap"></i> global spanning tree]
+- Switch layer creates a .alt[globally agreed spanning tree <i class="fas fa-sitemap"></i>]
+
+--
+
+- A DHT is used to look up the .alt[<i class="fas fa-sitemap"></i>] coordinates for a given IP address
 
 --
 
@@ -449,7 +453,7 @@ class: long
 
 --
 
-- Route traffic by walking .alt[<i class="fas fa-sitemap"></i>] represents a worst-case path with guaranteed reachablity, since greedy routing often take shortcuts not shown on .alt[<i class="fas fa-sitemap"></i>]
+- Routing traffic by walking .alt[<i class="fas fa-sitemap"></i>] represents a worst-case path with guaranteed reachablity, since greedy routing often take shortcuts not shown on .alt[<i class="fas fa-sitemap"></i>]
 
 ---
 
@@ -470,9 +474,13 @@ class: long
 class: long
 
 ## Yggdrasil global spanning tree
-<i class="fas fa-ellipsis-v"></i>  view from node .hi3[.code[**5708**] .small[<i class="fas fa-map-pin"></i> .code[[ 0 2 2 ]]]]
+<i class="fas fa-ellipsis-v"></i> view from node .hi3[.code[**5708**] .small[<i class="fas fa-map-pin"></i> .code[[ ? 2 2 ]]]]
 
 .center[<img width="1100" src="assets/yggdrasil-map-2.png"></img>]
+
+--
+
+<i class="fas fa-ellipsis-v"></i> which does not know the .alt[<i class="fas fa-sitemap"></i>] root node's IP in its DHT, but the switch layer knows there exists such a node based on its own coordinate
 
 ---
 
