@@ -1,4 +1,4 @@
-title: Our Peer-to-Peer Networks
+title: Peer-to-Peer Protocols for Our Cyber Commons
 class: animation-fade
 layout: true
 
@@ -64,11 +64,77 @@ class: impact
 
 ---
 
-class: long contain bottom right small
+class: long contain bottom small
 
-background-image: url(assets/private-fiber.png)
+background-image: url(assets/facebook-publish.png)
 
-_<i class="far fa-images"></i> https://www.economist.com/business/2017/10/07/tech-giants-are-building-their-own-undersea-fibre-optic-networks_
+_<i class="far fa-images"></i> https://stratechery.com/2018/the-european-union-versus-the-internet/_
+
+---
+
+class: long
+
+## Referral source of traffic to top web publishers
+
+.center[<img width="700" src="assets/referral-traffic.png"></img>]
+
+.small[_<i class="far fa-images"></i> https://blog.parse.ly/post/2855/facebook-continues-to-beat-google-in-sending-traffic-to-top-publishers/_]
+
+---
+
+class: long
+
+## Google Accelerated Mobile Pages
+
+.col-6[
+<br />
+
+<img width="530" src="assets/desktop-vs-mobile.jpg"></img>
+]
+
+.col-6[
+<img width="550" src="assets/google-amp.png"></img>
+]
+
+.small[_<i class="far fa-images"></i> https://staltz.com/the-web-began-dying-in-2014-heres-how.html_]  
+.small[_<i class="far fa-images"></i> https://developers.googleblog.com/2017/02/whats-in-amp-url.html_]
+
+---
+
+class: impact
+
+.col-6[
+.big[<i class="fab fa-google-play"></i>]  
+
+Google Play
+]
+
+.col-6[
+.big[<i class="fab fa-app-store-ios"></i>]  
+
+Apple Store
+]
+
+---
+
+class: impact
+
+.big[
+.col-2[<i class="fab fa-whatsapp"></i>]
+.col-2[<i class="fab fa-google-drive"></i>]
+.col-2[<i class="fab fa-instagram"></i>]
+.col-2[<i class="fab fa-apple-pay"></i>]
+.col-2[<i class="fab fa-google-wallet"></i>]
+.col-2[<i class="fab fa-amazon-pay"></i>]
+]
+
+---
+
+class: impact
+
+# <i class="far fa-question-circle"></i> 
+
+.big[Data ownership under surveillance capitalism]
 
 ---
 
@@ -82,9 +148,28 @@ _<i class="far fa-images"></i> https://www.cigionline.org/articles/searching-sma
 
 class: long contain bottom small
 
+.background[
+.center[
+<video width="95%" autoplay muted><source src="assets/sidewalk-toronto.m4v" type="video/mp4"></video>
+]
+]
+_<i class="far fa-images"></i> https://youtu.be/4z0fVAsHFro_
+
+---
+
+class: long contain bottom small
+
 background-image: url(assets/sidewalk-timeline.png)
 
 _<i class="far fa-images"></i> https://www.cigionline.org/articles/searching-smart-citys-democratic-future_
+
+---
+
+class: impact
+
+# <i class="far fa-question-circle"></i> 
+
+.big[Social control with aggregated data]
 
 ---
 
@@ -92,10 +177,44 @@ class: long contain bottom small
 
 .background[
 .center[
-<video width="95%" autoplay muted><source src="assets/sidewalk-toronto.m4v" type="video/mp4"></video>
+<video width="95%" autoplay muted><source src="assets/censorship.m4v" type="video/mp4"></video>
 ]
 ]
-_<i class="far fa-images"></i> https://youtu.be/4z0fVAsHFro_
+_<i class="far fa-images"></i> https://n-o-d-e.net/political_censorship.html_
+
+---
+
+class: long bottom small
+
+background-image: url(assets/censorship-platforms.png)
+
+.em[_<i class="far fa-images"></i> https://n-o-d-e.net/political_censorship.html_]
+
+---
+
+class: impact
+
+# <i class="far fa-question-circle"></i> 
+
+.big[Digital imperialism by high-barrier infrastructure]
+
+---
+
+class: long contain bottom right small
+
+background-image: url(assets/private-fiber.png)
+
+_<i class="far fa-images"></i> https://www.economist.com/business/2017/10/07/tech-giants-are-building-their-own-undersea-fibre-optic-networks_
+
+---
+
+class: long small
+
+.big[Internet users in 2015 as a percentage of a country's population]
+
+.center[<img width="95%" src="assets/internet-penetration.svg"></img>]
+
+_<i class="far fa-images"></i> https://en.wikipedia.org/wiki/List_of_countries_by_number_of_Internet_users#/media/File:InternetPenetrationWorldMap.svg_
 
 ---
 
@@ -215,6 +334,24 @@ class: impact
 
 ---
 
+class: long
+
+## IPv4 prefixes in Internet BGP forwarding tables
+
+.col-6[
+### Proportional distribution
+<img width="500" src="assets/ipv4-prefix-distribution.png"></img>
+]
+
+.col-6[
+### Contribution to address space
+<img width="500" src="assets/ipv4-prefix-contribution.png"></img>
+]
+
+.small[_<i class="far fa-images"></i> https://csperkins.org/research/thesis-phd-strowes.pdf_]
+
+---
+
 ## Compact routing
 
 <i class="fas fa-ellipsis-v"></i> in comparison to BGP inter-domain routing
@@ -243,6 +380,8 @@ class: impact
 .big[Route traffic in a non-hierchical network with self-addressed flat node IDs]
 
 ---
+
+class: long
 
 .col-7[
 # <i class="fas fa-directions"></i> Hyperboria
