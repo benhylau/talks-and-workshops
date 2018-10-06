@@ -3,7 +3,7 @@
 <br>
 
 ##### Peer-to-peer applications on a mesh network
-###### Benedict Lau @ Decentralized Web Summit 2018
+###### Benedict Lau, [tomesh.net](https://tomesh.net) @ Decentralized Web Summit 2018
 
 ---
 
@@ -166,7 +166,7 @@ Debian packages + Docker containers (e.g. `Matrix`, `Aether`)
 
 ### Meshstream 📡
 
-[Placeholder]
+<media-tag src="https://files.cryptpad.fr/blob/db/dbed4b68a45ba87a31c6294c034bf5c413369d0323ab5c0c" data-crypto-key="cryptpad:9DyYLcX6FzHvTOs2IQD0aknHH21YfKW1huHBjc0efTY="></media-tag>
 
 ---
 

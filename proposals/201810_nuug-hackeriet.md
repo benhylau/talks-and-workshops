@@ -1,10 +1,21 @@
 # Oslo Mesh Week
 
-How can we build a decentralized internet as a community of internet users? We begin with a 30 minute session about decentralized systems from community mesh networks to peer-to-peer applications. We will discuss power structures and social dynamics that emerge by having connectivity and web services as commons, through examples involving existing mesh locals and running protocols like the Interplanetary Filesystem (IPFS) and Secure Scuttlebutt (SSB). With off-the-shelf hardware such as the LibreRouter and Raspberry Pi running free open-source software, and with strategies for community governance that focus on literacy and inclusivity, we will present practical approaches to build and maintain such a network. The speaking session will be an overview, followed by one day of structured workshop and days of unstructured co-building.
+How can we build a decentralized internet as a community of internet users? We begin with a one hour session to discuss decentralized systems, including:
 
-The workshop component will start with a social activity to investigate the power structures around a common centralized web application, reflecting on questions like whose interest is prioritized by a social networking platform like Facebook, and whether there are mechanisms through which monetary or knowledge gained may be distributed to the local community of users. This is followed by together building a local ad-hoc mesh network of Raspberry Pis that run IPFS and SSB. In this hands-on session, participants will experiment with sending files to one another over IPFS, interacting through the peer-to-peer social network, Patchwork, built on top of SSB, and learn how messages are passed around in an encrypted physical mesh network. After the hands-on session, participants should have a good understanding of a mesh network where nodes are serving distributed content and web services.
+* Community mesh networks that allow us to control our own physical infrastructures of communication
+* Peer-to-peer applications that address issues such as state censorship and personal data privacy
 
-Following the workshop, we will spend a couple days deploying long-range radios with the LibreRouter, use it to build a peer-to-peer live video stream over IPFS. Basically we can take the workshop knowledge and apply it to building the peer-to-peer community network we can imagine.
+We will draw from experiences of existing mesh locals and discuss mesh network technologies, specifically self-addressing encrypted mesh routing protocols such as cjdns, and open-hardware initiatives such as the LibreRouter. Equally important are the governance processes that ensure sustainable community ownership of such networks.
+
+In addition to exploring mesh networks, we will discuss peer-to-peer applications such as the Interplanetary Filesystem (IPFS) and Secure Scuttlebutt (SSB), both technically and to explore social dynamics that emerge when users have ownership and control over the web applications they use to do everyday things, such as file sharing and social networking. 
+
+Lastly, we will discuss an approach to building mesh networks that emphasize literacy and inclusivity. We will present practical approaches to build and maintain such a network, as well as discuss the challenges, and together strategize to build the networks that we want.
+
+The one-hour session will be followed by two days of workshops and co-building at Hackeriet.
+
+The workshop component will start with a social activity to investigate the power structures around a common centralized web application, reflecting on questions like whose interest is prioritized by a social networking platform like Facebook, and whether there are mechanisms through which monetary or knowledge gained may be distributed to the local community of users. This is followed by a hands-on session to build a local ad-hoc mesh network of Raspberry Pis that run IPFS and SSB. In this hands-on session, participants will experiment with sending files to one another over IPFS, interacting through the peer-to-peer social network, Patchwork, built on top of SSB, and learn how messages are passed around in an encrypted physical mesh network.
+
+After the hands-on session, participants should have a good understanding of a mesh network where nodes are serving distributed content and web services. Then we will spend the next day setting up long-range radios with the LibreRouter, use it to build a peer-to-peer live video stream over IPFS. Basically we can take the workshop knowledge and apply it to building the peer-to-peer community network we can imagine.
 
 References:
 
