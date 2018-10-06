@@ -337,6 +337,17 @@ class: impact
 class: long
 
 ## IPv4 prefixes in Internet BGP forwarding tables
+<i class="fas fa-ellipsis-v"></i> stored by every Internet core router
+
+.center[<img width="500" src="assets/ipv4-prefix-growth.png"></img>]
+
+.small[_<i class="far fa-images"></i> https://csperkins.org/research/thesis-phd-strowes.pdf_]
+
+---
+
+class: long
+
+## IPv4 prefixes in Internet BGP forwarding tables
 
 .col-6[
 ### Proportional distribution
