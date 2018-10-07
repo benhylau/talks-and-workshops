@@ -915,30 +915,105 @@ class: impact
 # <i class="fas fa-route"></i> Traffic routing
 <i class="fas fa-ellipsis-v"></i> on distributed non-hierichal networks
 
+.col-4[
+<br />
+<img width="350" src="assets/autonomous-systems.png"></img>
+]
+
+.col-8[
+>.small[For a large network to scale, it must be subnetted into smaller, more easily manageable networks, which then must in turn be networked together (to form a network of networks from inter-network connections, i.e. the internet). This requires some level of expertise and planning to do, and tends to favor hierarchies wherein small networks are largely at the mercy of a larger network (e.g. the only connection your LAN has to another network is your connection to an ISP, and “peering” or directly connecting to your neighbor’s LAN is virtually unheard of).]
+
+.small[_<i class="far fa-clone"></i> Arceliar_]  
+.small[.small[_Yggdrasil: The World Tree, https://yggdrasil-network.github.io/2018/07/17/world-tree.html_]]
+]
+
 ---
 
 # <i class="fas fa-sort-alpha-down"></i> Name assignment
 <i class="fas fa-ellipsis-v"></i> without a trusted global authority
+
+.col-8[
+>.big[If ICANN's monopoly is a kind of _feudalism_, then Namecoin's method of associating records with tokens is  
+a kind of _anarcho-capitalism_.]
+
+.small[_<i class="far fa-clone"></i> ansuz_]  
+.small[.small[_dnssb: Why dnssb?, https://github.com/ansuz/dnssb/blob/master/docs/WHY.md_]]
+]
+
+.col-4[
+<img width="360" src="assets/petname.gif"></img>
+]
 
 ---
 
 # <i class="fas fa-database"></i> Data aggregation
 <i class="fas fa-ellipsis-v"></i> respecting user privacy and agency
 
+.col-6[
+<br />
+<img width="540" src="assets/ssb-web.png"></img>
+]
+
+.col-6[
+>.small[Now that we have experience with some of the intricacies of the social Web, we can reinvent it to put people first without intermediate companies. The peer-to-peer protocol Secure Scuttlebutt (SSB) does that, designed with diversity-first principles that prefigure (hopefully) social structures with freedom, subjectivity, and political structures that can prevent capitalistic monopolies.]
+
+.small[_<i class="far fa-clone"></i> André Staltz_]  
+.small[.small[_A plan to rescue the Web from the Internet, https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html_]]
+]
+
+
 ---
 
 # <i class="fas fa-ban"></i> Content moderation
 <i class="fas fa-ellipsis-v"></i> prioritizing user interests over censoring authorities
+
+.col-9[
+>Users can elect moderators, impeach them, or just enable, disable them just for themselves. So if somebody is unhappy with some moderators, s/he can just disable the ones that he doesn’t think are doing a good job, and choose new ones.  
+This makes it so that the people who participate in the communities actually have a say in how they are governed (if they want to  do so).
+
+.small[_<i class="far fa-clone"></i> Burak Nehbit_]  
+.small[.small[_Aether News & Updates - June 2018, http://blog.getaether.net/post/175104485127/aether-news-updates-june-2018_]]
+]
+
+.col-3[
+<img width="280" src="assets/censorship-platforms-sm.png"></img>
+]
 
 ---
 
 # <i class="fas fa-users"></i> Network participation
 <i class="fas fa-ellipsis-v"></i> encouraging inclusive co-creations
 
+.col-6[
+<img width="520" src="assets/hyperboria.png"></img>
+]
+
+.col-6[
+>Traditional networks require manual configuration of IP addresses. For one to get these addresses one must join an Internet Registry and file a lengthy application. Cjdns nodes generate their own addresses along with their keys. When two nodes find each other, they connect.
+
+.small[_<i class="far fa-clone"></i> cjdns: Project goals_]  
+.small[.small[_https://github.com/cjdelisle/cjdns/blob/master/doc/projectGoals.md_]]
+]
+
 ---
+
+class: long
 
 # <i class="fas fa-hand-holding-usd"></i> Resource allocation
 <i class="fas fa-ellipsis-v"></i> through collaborative decision making
+
+.col-10[
+>.small[. . . queremos demostrar que nuestro modelo de red abierta, libre y neutral es perfectamente compatible con la economía de mercado. Se trata de dar a la gente otra opción, y reclamar el derecho de los ciudadanos al uso de la infraestructura de las telecomunicaciones, en el espíritu de la gobernanza de los bienes comunes que proponía Elinor Ostrom".]
+]
+
+.col-2[
+<img width="180" src="assets/guifi.png"></img>
+]
+
+.small[. . . we want to show that our open, free and neutral network model is perfectly compatible with the market economy. It is about giving people another option, and claiming the right of citizens to the use of telecommunications infrastructure, in the spirit of the governance of common goods proposed by Elinor Ostrom.]
+
+.small[_<i class="far fa-clone"></i> Ramón Roca_]  
+.small[.small[_Guifi.net, la red que es de todos, http://www.elmundo.es/economia/2014/11/15/546668a1ca474118638b4579.html_]]
 
 ---
 
