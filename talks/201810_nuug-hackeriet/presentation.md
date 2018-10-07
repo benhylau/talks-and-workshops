@@ -254,7 +254,7 @@ class: long
 
 <i class="fas fa-ellipsis-v"></i> for a free, open, and neutral network
 
-- Establish shared values among community organizations and businesses to create Internet accesss infrastructure in Catalunya
+- Establish shared values among community organizations and businesses to create Internet accesss infrastructure in Catalonia
 
 - Facilitate maintainance and expansion of wired, wireless, and fiber network
 
@@ -330,7 +330,7 @@ class: impact
 
 # <i class="far fa-question-circle"></i> 
 
-.big[Centralization points in .hi2[BGP backbone network management] and .hi2[IP address assignment]]
+.big[Centralized components for .hi2[BGP backbone network management] and .hi2[IP address assignment]]
 
 ---
 
@@ -953,3 +953,32 @@ class: impact
 <img width="400" src="assets/libre-router.png"></img>
 
 .small[_<i class="far fa-images"></i> https://librerouter.org_]
+
+---
+
+class: impact
+
+.small[This presentation is influenced by the readings]
+
+[_The Web began dying in 2014, here’s how_](https://staltz.com/the-web-began-dying-in-2014-heres-how.html) .small[by André Staltz]
+
+[_Do Artifacts Have Politics?_](https://transitiontech.ca/pdf/Winner-Do-Artifacts-Have-Politics-1980.pdf) .small[by Langdon Winner]  
+
+.small[<i class="fas fa-ellipsis-h"></i>]
+
+.small[references protocol designs and discussions with contributors of]
+
+[Aether](http://getaether.com)
+[cjdns](https://github.com/cjdelisle/cjdns)
+[Guifi.net](https://guifi.net)
+[IPFS](http://ipfs.io)
+[Secure Scuttlebutt](https://scuttlebutt.nz)
+[Yggdrasil](https://yggdrasil-network.github.io)
+
+.small[<i class="fas fa-ellipsis-h"></i>]
+
+.small[and is created using]
+[remark](https://remarkjs.com/)
+[backslide](https://github.com/sinedied/backslide)
+[Font Awesome](https://fontawesome.com)
+[nomnoml](http://nomnoml.com)
