@@ -254,11 +254,11 @@ class: long
 
 <i class="fas fa-ellipsis-v"></i> for a free, open, and neutral network
 
-- Establish shared values among community organizations and businesses to create Internet accesss infrastructure in Catalonia
+- Establish shared values among community organizations and businesses to create Internet access infrastructure in Catalonia
 
 - Facilitate maintainance and expansion of wired, wireless, and fiber network
 
-- Prevent privitization of physical infrastructure while allowing business incentives to sustain a reliable production network
+- Prevent privatization of physical infrastructure while allowing business incentives to sustain a reliable production network
 ]
 
 .small[_<i class="far fa-images"></i> http://www.ebrecom.com/images/participa.png_]  
