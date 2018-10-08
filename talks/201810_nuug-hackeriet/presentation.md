@@ -21,25 +21,25 @@ class: long
 
 # Outline
 
-<i class="fas fa-dice-one"></i> **Living with Our Internet**
+<i class="fas fa-dice-one"></i> **Living with Our Internet** .small[.em[10 min]]
 
 --
 
-<i class="fas fa-dice-two"></i> **Networks of Our Distributed Web**
+<i class="fas fa-dice-two"></i> **Networks of Our Distributed Web** .small[.em[10 min]]
 
 --
 
-<i class="fas fa-dice-three"></i> **Protocol Politics of Our Networks**
-  - <i class="fas fa-route"></i> **Traffic routing** .em[on distributed non-hierichal networks]
-  - <i class="fas fa-sort-alpha-down"></i> **Name assignment** .em[without a trusted global authority]
-  - <i class="fas fa-database"></i> **Data aggregation** .em[respecting user privacy and agency]
-  - <i class="fas fa-ban"></i> **Content moderation** .em[prioritizing user interests over censoring authorities]
-  - <i class="fas fa-users"></i> **Network participation** .em[encouraging inclusive co-creations]
-  - <i class="fas fa-hand-holding-usd"></i> **Resource allocation** .em[through collaborative decision making]
+<i class="fas fa-dice-three"></i> **Protocol Politics of Our Networks** .small[.em[30 min]]
+  - <i class="fas fa-route"></i> **Traffic routing** .small[.em[on distributed non-hierarchical networks]]
+  - <i class="fas fa-sort-alpha-down"></i> **Name assignment** .small[.em[without a trusted global authority]]
+  - <i class="fas fa-database"></i> **Data aggregation** .small[.em[respecting user privacy and agency]]
+  - <i class="fas fa-ban"></i> **Content moderation** .small[.em[prioritizing user interests over censoring authorities]]
+  - <i class="fas fa-users"></i> **Network participation** .small[.em[encouraging inclusive co-creations]]
+  - <i class="fas fa-hand-holding-usd"></i> **Resource allocation** .small[.em[through collaborative decision making]]
 
 --
 
-<i class="fas fa-dice-four"></i> **Fabric of Our Digital Commons**
+<i class="fas fa-dice-four"></i> **Fabric of Our Cyber Commons** .small[.em[10 min]]
 
 ---
 
@@ -184,11 +184,11 @@ _<i class="far fa-images"></i> https://n-o-d-e.net/political_censorship.html_
 
 ---
 
-class: long bottom small
+class: long bottom small em
 
 background-image: url(assets/censorship-platforms.png)
 
-.em[_<i class="far fa-images"></i> https://n-o-d-e.net/political_censorship.html_]
+_<i class="far fa-images"></i> https://n-o-d-e.net/political_censorship.html_
 
 ---
 
@@ -388,7 +388,7 @@ class: impact
 
 # <i class="far fa-question-circle"></i> 
 
-.big[Route traffic in a non-hierchical network with self-addressed flat node IDs]
+.big[Route traffic in a non-hierarchical network with self-addressed flat node IDs]
 
 ---
 
@@ -648,17 +648,27 @@ _Neil_
 .col-5[
 ### IPFS
 
+.small[
 - Provide stable content addresses
+
 - Locate content
+
 - Self-verify content integrity
+
 - Support concurrent downloads
+
 - Auto-scale capacity with content popularity
+]
 
 ### libp2p
 
+.small[
 - Traverse nested networks
+
 - Relay connections between systems with different transports
+
 - Facilitate node discovery
+]
 ]
 
 .col-7[
@@ -913,7 +923,7 @@ class: impact
 ---
 
 # <i class="fas fa-route"></i> Traffic routing
-<i class="fas fa-ellipsis-v"></i> on distributed non-hierichal networks
+<i class="fas fa-ellipsis-v"></i> on distributed non-hierarchical networks
 
 .col-4[
 <br />
@@ -925,6 +935,37 @@ class: impact
 
 .small[_<i class="far fa-clone"></i> Arceliar_]  
 .small[.small[_Yggdrasil: The World Tree, https://yggdrasil-network.github.io/2018/07/17/world-tree.html_]]
+]
+
+---
+
+# <i class="fas fa-route"></i> Traffic routing
+
+.col-6[
+### ISP monopolies to our data access
+<img width="500" src="assets/data-isp-monopoly.svg"></img>
+]
+
+.col-6[
+### Auto-configurating and self-addressing compact routing
+<img width="500" src="assets/data-centralized.svg"></img>
+]
+
+.small[_<i class="far fa-images"></i> https://tomeshnet.github.io/p2p-internet-workshop/_]
+
+---
+
+class: long
+
+## Cost-accessible, available, and open hardware
+
+.col-7[
+<img width="600" src="assets/open-hardware.jpg"></img>
+]
+
+.col-5[
+<img width="450" src="assets/libre-router.png"></img>
+.right[.small[_<i class="far fa-images"></i> https://librerouter.org_]]
 ]
 
 ---
@@ -961,6 +1002,21 @@ a kind of _anarcho-capitalism_.]
 .small[.small[_A plan to rescue the Web from the Internet, https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html_]]
 ]
 
+---
+
+# <i class="fas fa-database"></i> Data aggregation
+
+.col-6[
+### Centralized data
+<img width="500" src="assets/data-centralized.svg"></img>
+]
+
+.col-6[
+### Distributed data
+<img width="500" src="assets/data-distributed.svg"></img>
+]
+
+.small[_<i class="far fa-images"></i> https://tomeshnet.github.io/p2p-internet-workshop/_]
 
 ---
 
@@ -997,6 +1053,14 @@ This makes it so that the people who participate in the communities actually hav
 
 ---
 
+class: long bottom right small em
+
+background-image: url(assets/mesh-workshop.jpg)
+
+_<i class="far fa-images"></i> https://tomeshnet.github.io/p2p-internet-workshop/_
+
+---
+
 class: long
 
 # <i class="fas fa-hand-holding-usd"></i> Resource allocation
@@ -1017,21 +1081,49 @@ class: long
 
 ---
 
-class: impact
+class: long
 
-.big[<i class="fas fa-dice-four"></i> Fabric of Our Digital Commons]
+## Design principles for common property systems
+
+.small[
+>1. Clearly defined boundaries
+
+>1. Congruence between appropriation and provision rules and local conditions
+
+>1. Collective-choice arrangements allowing for the participation of most of the appropriators in the decision making process
+
+>1. Effective monitoring by monitors who are part of or accountable to the appropriators
+
+>1. Graduated sanctions for appropriators who do not respect community rules
+
+>1. Conflict-resolution mechanisms which are cheap and easy to access
+
+>1. Minimal recognition of rights to organize (e.g., by the government)
+
+>1. In case of larger CPRs: Organisation in the form of multiple layers of nested enterprises, with small, local CPRs at their bases.
+]
+
+.small[_<i class="far fa-clone"></i> Elinor Ostrom_]  
+.small[.small[_Cambridge University Press, Governing the commons: the evolution of institutions for collective action (1990)_]]  
+.small[.small[_via https://en.wikipedia.org/wiki/Common-pool_resource_]]
 
 ---
 
-# LibreRouter
+class: impact
 
-<img width="400" src="assets/libre-router.png"></img>
-
-.small[_<i class="far fa-images"></i> https://librerouter.org_]
+.big[<i class="fas fa-dice-four"></i> Fabric of Our Cyber Commons]
 
 ---
 
 class: impact
+
+Commons infrastructure &bull; Distributed content &bull; .big[People centric]
+
+.small[.small[than] Monopolized lanes &bull; Siloed data &bull; Extractive economics]
+
+---
+
+class: impact alt-bg
 
 .small[This presentation is influenced by the readings]
 
@@ -1053,7 +1145,78 @@ class: impact
 .small[<i class="fas fa-ellipsis-h"></i>]
 
 .small[and is created using]
-[remark](https://remarkjs.com/)
+[remark](https://remarkjs.com)
 [backslide](https://github.com/sinedied/backslide)
 [Font Awesome](https://fontawesome.com)
 [nomnoml](http://nomnoml.com)
+
+---
+
+class: impact
+
+.big[Copyleft] &bull; Political &bull; Free
+
+.small[.small[than] Copyright &bull; Permissive &bull; Lock in]
+
+---
+
+class: impact alt-bg
+
+.small[This presentation is licensed under the]
+
+[Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
+
+.small[<i class="fab fa-creative-commons"></i>]
+
+.small[and the source is available on [GitHub](https://github.com/benhylau/talks-and-workshops/)]
+
+---
+
+class: impact
+
+.big[Offline first] &bull; Inclusive co-creation &bull; Local empowerment
+
+.small[.small[than] Always on &bull; High barrier &bull; Imperialistic dependencies]
+
+---
+
+class: impact alt-bg
+
+.small[This presentation is currently served locally from a Raspberry Pi]
+
+.small[<sup>SSID</sup>] .code[tomesh] &bull; .small[<sup>Password</sup>] .code[password]  
+.small[<sup>Address</sup>] .code[http://tomesh.local]
+
+---
+
+class: impact
+
+Permissionless &bull; Flat &bull; .big[Self agency]
+
+.small[.small[than] Centrally managed &bull; Hierarchical &bull; Authoritarian]
+
+---
+
+class: impact alt-bg
+
+.small[The Raspberry Pi is configured using [Toronto Mesh Prototype](https://github.com/tomeshnet/prototype-cjdns-pi) software]
+
+.small[automatically meshes over] cjdns  
+.small[distributes content with] IPFS  
+.small[and runs] Secure Scuttlebutt
+
+---
+
+class: impact
+
+.big[Subjective] &bull; Diverse &bull; Forkable
+
+.small[.small[than] Prescriptive &bull; Monoculture &bull; Assimilating]
+
+---
+
+class: impact alt-bg
+
+.big[{{title}}]
+
+.small[_according to the hopes & dreams of Ben .small[from Toronto Mesh]_]
