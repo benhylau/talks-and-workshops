@@ -25,11 +25,11 @@ class: long
 
 --
 
-<i class="fas fa-dice-two"></i> **Networks of Our Distributed Web** .small[.em[10 min]]
+<i class="fas fa-dice-two"></i> **Networks of Our Distributed Web** .small[.em[30 min]]
 
 --
 
-<i class="fas fa-dice-three"></i> **Protocol Politics of Our Networks** .small[.em[30 min]]
+<i class="fas fa-dice-three"></i> **Protocol Politics of Our Networks** .small[.em[10 min]]
   - <i class="fas fa-route"></i> **Traffic routing** .small[.em[on distributed non-hierarchical networks]]
   - <i class="fas fa-sort-alpha-down"></i> **Name assignment** .small[.em[without a trusted global authority]]
   - <i class="fas fa-database"></i> **Data aggregation** .small[.em[respecting user privacy and agency]]
@@ -493,7 +493,7 @@ class: impact
 
 # <i class="far fa-question-circle"></i> 
 
-.big[Deliver a packet from .hi1[Rick .code[1101]] to .hi2[Morty .code[1110]]]
+.big[.hi1[Rick .code[1101]] wants to send a packet to .hi2[.code[1110]]]
 
 ---
 
