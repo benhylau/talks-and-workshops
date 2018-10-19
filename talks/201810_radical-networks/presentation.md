@@ -74,6 +74,22 @@ _multidimensional and dynamic_
 
 ---
 
+class: dark-bg
+
+.big[
+>Instead of thinking in terms of surfaces - two dimension- or spheres -three dimension- one is asked to think in terms of nodes that have as many dimensions as they have connections.
+]
+
+>[...] modern societies cannot be described without recognizing them as having a fibrous, thread-like, wiry, stringy, ropy, capillary character that is never captured by the notions of levels, layers, territories, spheres, categories, structure, systems.
+
+<br />
+
+>[...] it is utterly impossible to understand what holds the society together without reinjecting in its fabric the facts manufactured by natural and social sciences and the artefacts designed by engineers.
+
+.small[.small[_<i class="far fa-clone"></i> http://www.bruno-latour.fr/sites/default/files/P-67%20ACTOR-NETWORK.pdf_]]
+
+---
+
 # .soft[Amazon reviews]
 
 <img width="95%" src="assets/amazon.png"></img>
