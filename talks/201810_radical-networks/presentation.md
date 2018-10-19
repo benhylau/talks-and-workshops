@@ -32,7 +32,7 @@ _writing developed humans in new ways_
 
 ---
 
-class: long bottom small
+class: bottom small
 
 background-image: url(assets/the-sun.jpg)
 
@@ -40,7 +40,7 @@ background-image: url(assets/the-sun.jpg)
 
 ---
 
-class: dark-bg long contain bottom small
+class: dark-bg contain bottom small
 
 .background[
 .center[
@@ -52,7 +52,7 @@ class: dark-bg long contain bottom small
 
 ---
 
-class: dark-bg long contain bottom small
+class: dark-bg contain bottom small
 
 .background[
 .center[
@@ -133,12 +133,35 @@ class: dark-bg
 
 ---
 
+class: impact
+
+# <i class="fab fa-facebook"></i>
+
+.code[First name]  
+.code[Last name]  
+.code[Email]  
+.code[New password]  
+
+.small[<i class="fas fa-check-square"></i> .code[Agree to our Terms]]
+
+.big[.code[Sign Up]]
+
+---
+
+class: contain bottom small
+
+background-image: url(assets/facebook-publish.png)
+
+_<i class="far fa-images"></i> https://stratechery.com/2018/the-european-union-versus-the-internet/_
+
+---
+
 class: dark-bg
 
 # .soft[Autonomy & participative governance]
 
 .big[
-- White Book: participation, engagement, inclusion of the civil society on all levels of political decision process, including taking a specific decision and deploying it.
+- White Book: participation, engagement, inclusion of the civil society on all levels of political decision process, including taking a specific decision and deploying it
 
 - Can mesh network communities propose a realistic alternative to State's governance over Internet?
 
