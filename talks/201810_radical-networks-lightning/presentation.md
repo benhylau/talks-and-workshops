@@ -32,13 +32,13 @@ class: impact
 <img width="100" src="assets/ipfs.svg"></img>
 ]
 
-<i class="fas fa-ellipsis-v"></i>
+.soft[<i class="fas fa-ellipsis-v"></i>]
 
 --
 
 .big[.big[.big[IP .hi1[<i class="fas fa-map-pin"></i>] address .hi2[<i class="fas fa-box"></i>] packet]]]
 
-<i class="fas fa-ellipsis-v"></i>
+.soft[<i class="fas fa-ellipsis-v"></i>]
 
 --
 
@@ -181,6 +181,18 @@ class: dark-slide
 
 ---
 
+class: dark-slide middle
+
+.big[.hi1[Distributed] .small[.soft[every node is capable of _compact routing_]]]
+
+.big[.hi2[Secure] .small[end-to-end encryption .soft[&bull; route around malicious nodes]]]
+
+.big[.hi3[Permissionless] .small[IP address self-assignment .soft[&bull;] autonomous network]]
+
+.big[.hi4[Flat] .small[random IP addresses .soft[&bull; no subnet hierarchy]]]
+
+---
+
 class: alt-bg
 
 .col-8[
@@ -233,6 +245,18 @@ class: alt-bg
 
 ---
 
+class: dark-slide middle
+
+.big[.hi1[Distributed] .small[every node is capable of _compact routing_]]
+
+.big[.hi2[Secure] .small[.soft[end-to-end encryption &bull; route around malicious nodes]]]
+
+.big[.hi3[Permissionless] .small[.soft[IP address self-assignment &bull; autonomous network]]]
+
+.big[.hi4[Flat] .small[.soft[random IP addresses &bull;] no subnet hierarchy]]
+
+---
+
 class: impact
 
 # <i class="far fa-question-circle"></i> 
@@ -268,6 +292,18 @@ class: dark-slide
 .small[<i class="fas fa-ellipsis-v"></i>]
 
 #### The <i class="fas fa-box"></i> reaches Morty's .hi1[<i class="fas fa-arrow-alt-circle-right"></i>] peer, Summer, and she sees the .hi2[<i class="fas fa-arrow-alt-circle-down"></i>] director
+
+---
+
+class: dark-slide middle
+
+.big[.hi1[Distributed] .small[every node is capable of _compact routing_]]
+
+.big[.hi2[Secure] .small[.soft[end-to-end encryption &bull;] route around malicious nodes]]
+
+.big[.hi3[Permissionless] .small[.soft[IP address self-assignment &bull; autonomous network]]]
+
+.big[.hi4[Flat] .small[.soft[random IP addresses &bull; no subnet hierarchy]]]
 
 ---
 
@@ -374,12 +410,54 @@ class: alt-bg
 
 class: impact
 
+.col-3[
+<img width="120" src="assets/hermies-gift.gif"></img>
+]
+.col-3[
+<img width="100" src="assets/aether.png"></img>
+]
+.col-3[
+<img width="100" src="assets/dat.png"></img>
+]
+.col-3[
+<img width="100" src="assets/ipfs.svg"></img>
+]
+
+.soft[<i class="fas fa-ellipsis-v"></i>]
+
+.big[.big[.big[.hi1[<i class="fas fa-directions"></i>] cjdns .hi2[<i class="fas fa-sitemap"></i>] Yggdrasil]]]
+
+.soft[<i class="fas fa-ellipsis-v"></i>]
+
+.col-2[
+.big[.big[<i class="fas fa-wifi"></i>]]
+]
+.col-2[
+.big[.big[<i class="fab fa-bluetooth-b"></i>]]
+]
+.col-2[
+.big[.big[<i class="fas fa-server"></i>]]
+]
+.col-2[
+.big[.big[<i class="fas fa-mobile-alt"></i>]]
+]
+.col-2[
+.big[.big[<i class="fas fa-laptop"></i>]]
+]
+.col-2[
+.big[.big[<i class="fas fa-plug"></i>]]
+]
+
+---
+
+class: impact
+
 # <i class="fas fa-ad"></i> 
 
 .big[**\#tomesh:tomesh.net**] .small[.small[<i class="fas fa-link"></i>] **freenode/\#tomesh**]
 
-.small[<i class="fas fa-ellipsis-h"></i>]
+.soft[.small[<i class="fas fa-ellipsis-h"></i>]]
 
-.big[**\#cjdns:matrix.org**] .small[.small[<i class="fas fa-link"></i>] **efnet/\#cjdns**]
+**\#cjdns:matrix.org** .small[.small[<i class="fas fa-link"></i>] **efnet/\#cjdns**]
 
-.big[**\#yggdrasil:matrix.org**] .small[.small[<i class="fas fa-link"></i>] **freenode/\#yggdrasil**]
+**\#yggdrasil:matrix.org** .small[.small[<i class="fas fa-link"></i>] **freenode/\#yggdrasil**]
