@@ -450,14 +450,10 @@ class: impact
 
 ---
 
-class: impact
+class: impact alt-bg
 
-# <i class="fas fa-ad"></i> 
-
-.big[**\#tomesh:tomesh.net**] .small[.small[<i class="fas fa-link"></i>] **freenode/\#tomesh**]
-
-.soft[.small[<i class="fas fa-ellipsis-h"></i>]]
-
-**\#cjdns:matrix.org** .small[.small[<i class="fas fa-link"></i>] **efnet/\#cjdns**]
-
-**\#yggdrasil:matrix.org** .small[.small[<i class="fas fa-link"></i>] **freenode/\#yggdrasil**]
+<img width="600" src="assets/teeohmeeh.png"></img>  
+.code[.soft[.big[**\#tomesh:tomesh.net**] .small[.small[<i class="fas fa-link"></i>] **freenode/\#tomesh**]]]  
+.soft[.small[<i class="fas fa-ellipsis-h"></i>]]  
+.code[.soft[**\#cjdns:matrix.org** .small[.small[<i class="fas fa-link"></i>] **efnet/\#cjdns**]]]  
+.code[.soft[**\#yggdrasil:matrix.org** .small[.small[<i class="fas fa-link"></i>] **freenode/\#yggdrasil**]]]
