@@ -1,0 +1,1 @@
+These are the slides for presenting [IPFS Live Streaming](https://github.com/tomeshnet/ipfs-live-streaming) at the [26 November 2018 IPFS All Hands weekly call](https://github.com/ipfs/team-mgmt) by Yurko, Elon, and Benedict.
