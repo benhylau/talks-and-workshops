@@ -2,7 +2,7 @@ Personal repository of proposals and assets for my talks and workshops
 
 | Topic |  with | at | Slides | Source |
 |:--|:--|:--|:--|:--|
-| IPFS Live Streaming @ Our Networks 2018 | | IPFS All Hands: 26 November 2018 | [🔗](https://benhylau.github.io/talks-and-workshops/talks/201811_ipfs-all-hands/) | [📄](https://github.com/benhylau/talks-and-workshops/tree/master/talks/201811_ipfs-all-hands/) |
+| IPFS Live Streaming @ Our Networks 2018 | Yurko, Elon | IPFS All Hands: 26 November 2018 | [🔗](https://benhylau.github.io/talks-and-workshops/talks/201811_ipfs-all-hands/) | [📄](https://github.com/benhylau/talks-and-workshops/tree/master/talks/201811_ipfs-all-hands/) |
 | Distributed secure routing in permissionless flat networks | | Radical Networks 2018 | [🔗](https://benhylau.github.io/talks-and-workshops/talks/201810_radical-networks-lightning/) | [📄](https://github.com/benhylau/talks-and-workshops/tree/master/talks/201810_radical-networks-lightning/) |
 | Building the Peer-to-Peer Internet and Our Platform Cooperatives | Communia | Radical Networks 2018 | [🔗](https://benhylau.github.io/talks-and-workshops/talks/201810_radical-networks/) | [📄](https://github.com/benhylau/talks-and-workshops/tree/master/talks/201810_radical-networks) |
 | Peer-to-Peer Protocols for Our Cyber Commons | | NUUG.no | [🔗](https://benhylau.github.io/talks-and-workshops/talks/201810_nuug-hackeriet/) | [📄](https://github.com/benhylau/talks-and-workshops/tree/master/talks/201810_nuug-hackeriet/) |
