@@ -2,6 +2,7 @@ Personal repository of proposals and assets for my talks and workshops
 
 | Topic |  with | at | Slides | Source |
 |:--|:--|:--|:--|:--|
+| The Starling Framework | | Stanford EE292J (2025) | [🔗](https://benhylau.github.io/talks-and-workshops/talks/202504_stanford-ee292j/ee292j.pdf) | [📄](https://github.com/benhylau/talks-and-workshops/tree/master/talks/202504_stanford-ee292j/) |
 | Patterns in Data Provenance | | Causal Islands LA 2024 | [🔗](https://benhylau.github.io/talks-and-workshops/talks/202403_causal-islands-la/patterns-in-data-provenance.pdf) | [📄](https://github.com/benhylau/talks-and-workshops/tree/master/talks/202403_causal-islands-la/) |
 | IPFS Live Streaming @ Our Networks 2018 | Yurko, Elon | IPFS All Hands: 26 November 2018 | [🔗](https://benhylau.github.io/talks-and-workshops/talks/201811_ipfs-all-hands/) | [📄](https://github.com/benhylau/talks-and-workshops/tree/master/talks/201811_ipfs-all-hands/) |
 | Distributed secure routing in permissionless flat networks | | Radical Networks 2018 | [🔗](https://benhylau.github.io/talks-and-workshops/talks/201810_radical-networks-lightning/) | [📄](https://github.com/benhylau/talks-and-workshops/tree/master/talks/201810_radical-networks-lightning/) |
